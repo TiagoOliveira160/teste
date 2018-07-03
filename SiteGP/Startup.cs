@@ -12,7 +12,7 @@ using SiteGP.Data;
 using SiteGP.Models;
 using SiteGP.Services;
 
-namespace SiteGP
+namespace SiteGP 
 {
     public class Startup
     {
